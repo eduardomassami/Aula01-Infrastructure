@@ -4,7 +4,7 @@ Atividade 01 -  Infrastructure and Cloud Architecture
 Subir VM: 
 vagrant up
 
-Dado para acessar mySQL: 
+Dado para acessar mySQL: <br>
 user: dbuser
 password: userpass
 host: 0.0.0.0
